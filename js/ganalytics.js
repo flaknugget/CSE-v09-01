@@ -92,7 +92,7 @@ French - Quiz - Quiz Finished								frQuizFinishedClick
 				gaPlugin.trackEvent( nativePluginResultHandler, nativePluginErrorHandler, "English - Hotel Lobby (travel) - Best Practices - Managers", "Click", "Click Event", 1);
 			}
 			function enTravelPracticeGeneralPublicClick() {	
-				gaPlugin.trackEvent( nativePluginResultHandler, nativePluginErrorHandler, "English - Hotel Lobby (travel) - Best Practices - General Public", "Click Event", 1);
+				gaPlugin.trackEvent( nativePluginResultHandler, nativePluginErrorHandler, "English - Hotel Lobby (travel) - Best Practices - General Public", "Click", "Click Event", 1);
 			}
 			
 			
@@ -162,7 +162,7 @@ French - Quiz - Quiz Finished								frQuizFinishedClick
 				gaPlugin.trackEvent( nativePluginResultHandler, nativePluginErrorHandler, "French - Hotel Lobby (travel) - Best Practices - Managers", "Click", "Click Event", 1);
 			}
 			function frTravelPracticeGeneralPublicClick() {	
-				gaPlugin.trackEvent( nativePluginResultHandler, nativePluginErrorHandler, "French - Hotel Lobby (travel) - Best Practices - General Public", "Click Event", 1);
+				gaPlugin.trackEvent( nativePluginResultHandler, nativePluginErrorHandler, "French - Hotel Lobby (travel) - Best Practices - General Public", "Click", "Click Event", 1);
 			}
 			
 			
